@@ -1,6 +1,6 @@
 {
-    "version": "8u202",
-    "url": "https://repo.huaweicloud.com/java/jdk/8u202-b08/jdk-8u202-windows-x64.exe",
+    "version": "8u181",
+    "url": "D:\\apps/jdk1.8.0_181.7z\\my-scoop-bucket-apps\\jdk1.8.0_181.7z",
     "env_add_path": "bin",
     "env_set": {
         "JAVA_HOME": "$dir"
